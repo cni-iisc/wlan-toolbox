@@ -20,7 +20,7 @@ This guide provides steps to execute code segments within `.ipynb` files locally
 2. **Clone the Repository**
    - Open a terminal or command prompt and clone the repository to your local system.
    ```bash
-   git clone https://github.com/cni-iisc/wlan-module/tree/main
+   git clone https://github.com/cni-iisc/wlan-toolbox
    ```
 
 3. **Navigate to the Experiment Directory**
