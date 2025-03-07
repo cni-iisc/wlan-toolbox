@@ -30,8 +30,7 @@ tgaxChannel.NumPenetratedWalls = 2 ;%Number of walls between transmitter and rec
 tgaxChannel.WallPenetrationLoss = 2.5; % penetration loss of a single wall in dB
 PL_updated_dB=info(tgaxChannel).Pathloss
 info_tgaxChannel=info(tgaxChannel)
-
-warning off;
+warning('off','all');
 
 numPackets =5000;
 CIR=[];
